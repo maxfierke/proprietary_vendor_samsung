@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys4gmtd/proprietary/vendor/bin/gpsd:system/vendor/bin/gpsd \
     vendor/samsung/galaxys4gmtd/proprietary/vendor/etc/gps.xml:system/vendor/etc/gps.xml \
     vendor/samsung/galaxys4gmtd/proprietary/vendor/lib/hw/gps.aries.so:system/vendor/lib/hw/gps.aries.so \
+    vendor/samsung/galaxys4gmtd/proprietary/lib/libclientgps.so:system/lib/libclientgps.so \
     vendor/samsung/galaxys4gmtd/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/galaxys4gmtd/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/galaxys4gmtd/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
