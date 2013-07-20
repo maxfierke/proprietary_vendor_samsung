@@ -26,4 +26,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys4gmtd/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/galaxys4gmtd/proprietary/vendor/lib/libsensor_yamaha_test.so:system/vendor/lib/libsensor_yamaha_test.so \
     vendor/samsung/galaxys4gmtd/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
-    vendor/samsung/galaxys4gmtd/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd
+    vendor/samsung/galaxys4gmtd/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
+    vendor/samsung/galaxys4gmtd/proprietary/modem.bin:modem.bin \
